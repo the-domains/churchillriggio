@@ -1,0 +1,28 @@
+name: ChurchillRiggio
+favicon: null
+layout_spectrum: 0.12128060054965317
+typography_spectrum: 0.15998406684957445
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.22309471853077412
+  lightness: 0.44932752242311835
+  saturation: 0.5881848661229014
+  rhythmicContrast: 0.948327301768586
+purpose: []
